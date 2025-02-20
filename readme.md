@@ -1,6 +1,5 @@
-# Risoluzione Problemi
 
-## Fare una spesa seguendo una lista
+# Fare una spesa seguendo una lista
 
 
 Nel frigo si inizia a sentire l'eco, perciò è ora di fare rifornimenti!
@@ -78,3 +77,9 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
 - ripongo il resto la spesa 
     - SE ho coprato cose che vanno nella dispensa le ripongo li
     - ALTRIMENTI le metto nel frigo
+
+
+
+
+
+
